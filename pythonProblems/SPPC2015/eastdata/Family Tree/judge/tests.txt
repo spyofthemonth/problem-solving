@@ -1,0 +1,22 @@
+Test cases with the same number will result in the same output.  
+The family tree is being defined in slightly different ways but the same inferences can be drawn.
+
+01a - husband
+01b - wife
+02a - husband with son & daughter
+02b - husband with son & daughter
+02c - wife with son & daughter
+02d - wife with son & daughter
+02e - same as 6 different input
+02f - same as 6 different input
+03a - husband with son with son and daughter
+03b - wife with daughter with son and daughter
+04a - husband with son and daughter each having son and daughter
+04b - wife with son and daughter each having son and daughter
+05a - 
+06: You need to infer sex here
+07: Double in-law
+08: Long chain for removed and great checking
+09: Long chain for n'th cousins
+10 - Male relationships specified, 2 children per generation, queries from female spouses to get in-law relationships
+

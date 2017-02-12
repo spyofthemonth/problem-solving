@@ -1,0 +1,3 @@
+#!/bin/sh
+
+g++ check_paint.cc -O3 -o run
