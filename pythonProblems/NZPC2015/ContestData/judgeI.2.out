@@ -1,0 +1,100 @@
+A1 2 dealer 6
+A2 4 B2 3 dealer 4
+A3 3 B3 1 C3 2 dealer 4
+A4 1 B4 1 C4 1 D4 1 dealer 2
+A5 1 B5 3 C5 3 D5 2 E5 1 dealer 2
+A6 3 dealer 5
+A7 3 B7 2 dealer 3
+A8 1 B8 3 C8 3 dealer 2
+A9 1 B9 2 C9 0 D9 3 dealer 3
+A10 1 B10 1 C10 2 D10 2 E10 0 dealer 3
+A11 2 dealer 6
+A12 2 B12 2 dealer 5
+A13 1 B13 2 C13 2 dealer 5
+A14 1 B14 2 C14 1 D14 2 dealer 4
+A15 1 B15 2 C15 1 D15 1 E15 0 dealer 0
+A16 7 dealer 2
+A17 2 B17 5 dealer 2
+A18 3 B18 0 C18 1 dealer 3
+A19 1 B19 2 C19 2 D19 1 dealer 5
+A20 1 B20 3 C20 2 D20 1 E20 2 dealer 3
+A21 4 dealer 5
+A22 0 B22 3 dealer 6
+A23 2 B23 3 C23 2 dealer 1
+A24 0 B24 2 C24 2 D24 1 dealer 6
+A25 2 B25 2 C25 2 D25 1 E25 1 dealer 5
+A26 2 dealer 6
+A27 1 B27 2 dealer 4
+A28 3 B28 2 C28 2 dealer 3
+A29 0 B29 1 C29 2 D29 1 dealer 7
+A30 3 B30 1 C30 1 D30 2 E30 2 dealer 6
+A31 4 dealer 4
+A32 5 B32 3 dealer 2
+A33 2 B33 2 C33 3 dealer 2
+A34 1 B34 1 C34 1 D34 0 dealer 6
+A35 0 B35 0 C35 1 D35 1 E35 1 dealer 5
+A36 5 dealer 3
+A37 4 B37 2 dealer 5
+A38 3 B38 0 C38 2 dealer 4
+A39 1 B39 2 C39 2 D39 1 dealer 4
+A40 1 B40 1 C40 1 D40 1 E40 1 dealer 6
+A41 5 dealer 4
+A42 2 B42 1 dealer 4
+A43 2 B43 1 C43 2 dealer 4
+A44 1 B44 1 C44 1 D44 0 dealer 4
+A45 1 B45 0 C45 1 D45 0 E45 1 dealer 9
+A46 4 dealer 5
+A47 3 B47 3 dealer 3
+A48 2 B48 1 C48 1 dealer 8
+A49 1 B49 1 C49 1 D49 2 dealer 4
+A50 0 B50 0 C50 1 D50 1 E50 0 dealer 7
+A51 4 dealer 3
+A52 3 B52 2 dealer 4
+A53 2 B53 2 C53 1 dealer 5
+A54 1 B54 1 C54 1 D54 2 dealer 5
+A55 1 B55 0 C55 1 D55 1 E55 0 dealer 6
+A56 6 dealer 1
+A57 1 B57 1 dealer 5
+A58 2 B58 3 C58 2 dealer 3
+A59 2 B59 2 C59 0 D59 2 dealer 3
+A60 1 B60 2 C60 1 D60 0 E60 2 dealer 2
+A61 5 dealer 4
+A62 4 B62 1 dealer 3
+A63 2 B63 1 C63 1 dealer 4
+A64 2 B64 1 C64 1 D64 2 dealer 3
+A65 2 B65 1 C65 0 D65 1 E65 2 dealer 7
+A66 5 dealer 4
+A67 1 B67 2 dealer 6
+A68 2 B68 2 C68 1 dealer 4
+A69 3 B69 2 C69 2 D69 2 dealer 1
+A70 1 B70 0 C70 1 D70 1 E70 1 dealer 8
+A71 4 dealer 3
+A72 3 B72 2 dealer 5
+A73 2 B73 1 C73 1 dealer 5
+A74 3 B74 1 C74 1 D74 1 dealer 4
+A75 1 B75 1 C75 1 D75 1 E75 1 dealer 3
+A76 5 dealer 1
+A77 2 B77 2 dealer 3
+A78 2 B78 3 C78 2 dealer 4
+A79 0 B79 0 C79 0 D79 1 dealer 10
+A80 1 B80 1 C80 1 D80 1 E80 1 dealer 5
+A81 3 dealer 4
+A82 3 B82 2 dealer 5
+A83 3 B83 2 C83 2 dealer 5
+A84 0 B84 1 C84 0 D84 0 dealer 11
+A85 1 B85 1 C85 1 D85 1 E85 1 dealer 3
+A86 4 dealer 3
+A87 2 B87 2 dealer 6
+A88 0 B88 2 C88 1 dealer 8
+A89 2 B89 0 C89 2 D89 1 dealer 7
+A90 0 B90 2 C90 0 D90 1 E90 1 dealer 10
+A91 0 dealer 5
+A92 4 B92 2 dealer 2
+A93 2 B93 0 C93 1 dealer 5
+A94 3 B94 2 C94 0 D94 2 dealer 3
+A95 0 B95 1 C95 1 D95 1 E95 1 dealer 3
+A96 4 dealer 4
+A97 3 B97 3 dealer 6
+A98 0 B98 0 C98 1 dealer 7
+A99 1 B99 0 C99 1 D99 1 dealer 7
+A100 0 B100 1 C100 0 D100 0 E100 0 dealer 5
