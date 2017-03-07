@@ -1,9 +1,9 @@
 # problem-solving
 Programming Problems using Python and C++
 # NZPC 2016
-All 3 and 10 point questions solved, Problem J however hasn't been.
+All 3 and 10 point questions solved (A,B,C,D,E,F,G,H). Problem J however hasn't been.
 # NZPC 2015
-Problem E solved, still have not done anything with Problem A.
+Problem A and E solved.
 # SPPC 2015
 Problem B solved.
 # TLAP
