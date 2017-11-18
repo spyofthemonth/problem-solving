@@ -4,7 +4,9 @@ Programming Problems using C++ and Python
 [https://uva.onlinejudge.org/]
 - [x] 127 "Accordian" Patience
 - [x] 146 ID Codes
+- [x] 260 Il Gioco dell'X
 - [x] 299 Train Swapping
+- [x] 315 Network
 - [x] 336 A Node Too Far
 - [x] 383 Shipping Routes
 - [x] 482 Permutation Arrays
