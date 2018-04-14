@@ -20,17 +20,20 @@ Programming Problems using C++ and Python
 - [x] 674 Coin Change
 - [x] 821 Page Hopping
 - [x] 908 Re-connecting Computer Sites
+- [x] 990 Diving for Gold
 - [x] 10130 SuperSale
 - [x] 10194 Football (aka Soccer)
-- [ ] 10258 Contest Scoreboard (<i>didn't bother to finish this one</i>)
 - [x] 10307 Killing Aliens in Borg Maze
 - [x] 10405 Longest Common Subsequence
-- [ ] 10901 Ferry Loading III (<i>not finished yet :) </i>)
 - [x] 10986 Sending Email
 - [x] 11340 Newspaper
 - [x] 11462 Age Sort
 - [x] 11504 Dominoes
 - [x] 11790 Murcia's Skyline
 
-# NZPC(2016 & 2015), SPPC 2015 and TLAP Problems 
-Solutions to some of these problems done in Python (except C++ for TLAP).
+# Informatics Problems
+Select solutions to some problems from various contest/sites. Many NZOI solutions not present due to them not being saved.
+Includes problem solutions from the NZOI training site, Croatian Open Competition in Informatics, Australian Invitational Informatics Olympiad and the French-Australian Regional Informatics Olympiad.
+
+# NZPC 2015, 2016 and 2017 Problems
+2015 and 2016 in Python, 2017 in C++.
