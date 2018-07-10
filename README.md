@@ -1,5 +1,5 @@
 # problem-solving
-Programming Problems using C++ and Python
+Competitive Programming problem solutions.
 # UVa Problems (C++)
 [https://uva.onlinejudge.org/]
 - [x] 127 "Accordian" Patience
