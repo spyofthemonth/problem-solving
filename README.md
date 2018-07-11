@@ -38,5 +38,5 @@ COCI - Croatian Open Competition in Informatics
 AIIO - Australian Invitational Informatics Olympiad
 FARIO - French-Australian Regional Informatics Olympiad
 
-# New Zealand Programming Contest (NZPC) 2015, 2016 and 2017 Problems
+# New Zealand Programming Contest (NZPC) Problems
 2015 and 2016 in Python, 2017 in C++.
