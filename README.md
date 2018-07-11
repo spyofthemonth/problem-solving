@@ -31,9 +31,12 @@ Competitive Programming problem solutions.
 - [x] 11504 Dominoes
 - [x] 11790 Murcia's Skyline
 
-# Informatics Problems
-Select solutions to some problems from various contest/sites. Many NZOI solutions not present due to them not being saved.
-Includes problem solutions from the NZOI training site, Croatian Open Competition in Informatics, Australian Invitational Informatics Olympiad and the French-Australian Regional Informatics Olympiad.
+# Informatics Problems (C++)
+IOI - <a href="http://ioinformatics.org/index.shtml">International Olympiad in Informatics</a>
+NZOI - New Zealand Olympiad in Informatics
+COCI - Croatian Open Competition in Informatics
+AIIO - Australian Invitational Informatics Olympiad
+FARIO - French-Australian Regional Informatics Olympiad
 
-# NZPC 2015, 2016 and 2017 Problems
+# New Zealand Programming Contest (NZPC) 2015, 2016 and 2017 Problems
 2015 and 2016 in Python, 2017 in C++.
