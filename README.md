@@ -33,9 +33,13 @@ Competitive Programming problem solutions.
 
 # Informatics Problems (C++)
 IOI - <a href="http://ioinformatics.org/index.shtml">International Olympiad in Informatics</a>
+
 NZOI - New Zealand Olympiad in Informatics
+
 COCI - Croatian Open Competition in Informatics
+
 AIIO - Australian Invitational Informatics Olympiad
+
 FARIO - French-Australian Regional Informatics Olympiad
 
 # New Zealand Programming Contest (NZPC) Problems
