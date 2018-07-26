@@ -1,5 +1,17 @@
 # problem-solving
 Competitive Programming problem solutions.
+
+# Informatics Problems (C++)
+IOI - <a href="http://ioinformatics.org/index.shtml">International Olympiad in Informatics</a>
+
+NZOI - New Zealand Olympiad in Informatics
+
+COCI - Croatian Open Competition in Informatics
+
+AIIO - Australian Invitational Informatics Olympiad
+
+FARIO - French-Australian Regional Informatics Olympiad
+
 # UVa Problems (C++)
 [https://uva.onlinejudge.org/]
 - [x] 127 "Accordian" Patience
@@ -30,17 +42,6 @@ Competitive Programming problem solutions.
 - [x] 11462 Age Sort
 - [x] 11504 Dominoes
 - [x] 11790 Murcia's Skyline
-
-# Informatics Problems (C++)
-IOI - <a href="http://ioinformatics.org/index.shtml">International Olympiad in Informatics</a>
-
-NZOI - New Zealand Olympiad in Informatics
-
-COCI - Croatian Open Competition in Informatics
-
-AIIO - Australian Invitational Informatics Olympiad
-
-FARIO - French-Australian Regional Informatics Olympiad
 
 # New Zealand Programming Contest (NZPC) Problems
 2015 and 2016 in Python, 2017 in C++.
